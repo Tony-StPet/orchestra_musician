@@ -1,7 +1,8 @@
 # Описание фотографий
 
 
-|номер|фото|пол|борода|очки|музыкант СО?|доказательство Со|источник фото|  
+|номер|фото|пол|борода|очки|музыкант СО?|доказательство Со|источник фото|
+|---|---|---|---|---|---|---|---|
 |1      |![alt text](1.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
 |2      |![alt text](2.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
 |3      |![alt text](3.jpg)  |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
