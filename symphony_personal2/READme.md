@@ -14,18 +14,18 @@
 |9      |![alt text](9.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/natusya1991)|
 |10     |![alt text](10.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/id418558015)|
 |11     |![alt text](11.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/aspr_hbc)|
-|12     |![alt text](12.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/yanamir_1995)|
+|12     |![alt text](12.png) |  Ж  |   нет  |  да  |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/yanamir_1995)|
 |13     |![alt text](13.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/id73239154)|
 |14     |![alt text](14.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/adriana.chuba10)|
-|15     |![alt text](15.png) |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/) | [LINK](https://vk.com/vdanilevskiy)|
+|15     |![alt text](15.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/) | [LINK](https://vk.com/vdanilevskiy)|
 |16     |![alt text](16.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/violas/)| [LINK](https://vk.com/viagabekov)|
 |17     |![alt text](17.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/french-horns/)| [LINK](https://vk.com/id16513947)| 
 |18     |![alt text](18.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/truby/)| [LINK](https://vk.com/vasialeshenko)|
 |19     |![alt text](19.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/violas/)| [LINK](https://vk.com/olgavasilevs)|
 |20     |![alt text](20.jpg) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/violas/)| [LINK](https://vk.com/lina.brikova)|
-|21     |![alt text](21.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/cellos/)| [LINK](https://vk.com/kikka)|
-|22     |![alt text](22.png) |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/cellos/)| [LINK](https://vk.com/igor_botvin)|
-|23     |![alt text](23.jpg) |  М  |   да   |  да  |      да      | [LINK](https://orchestra47.ru/sostav/cellos/)| [LINK](https://vk.com/id_632876587923)|
+|21     |![alt text](21.png) |  М  |   нет  |  да  |      да      | [LINK](https://orchestra47.ru/sostav/cellos/)| [LINK](https://vk.com/kikka)|
+|22     |![alt text](22.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/cellos/)| [LINK](https://vk.com/igor_botvin)|
+|23     |![alt text](23.jpg) |  М  |   нет  |  да  |      да      | [LINK](https://orchestra47.ru/sostav/cellos/)| [LINK](https://vk.com/id_632876587923)|
 |24     |![alt text](24.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/trombones/)| [LINK](https://vk.com/id176752890)|
 |25     |![alt text](25.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/tuba/)| [LINK](https://vk.com/id5304350)|
 |26     |![alt text](26.png) |  Ж  |   нет  |  да  |      да      | [LINK](https://orchestra47.ru/sostav/cellos/)| [LINK](https://vk.com/lihoe_kalanchoe)|
