@@ -8,14 +8,14 @@ ___
 
 | номер |  фото              | пол | борода | очки | музыкант СО? | доказательство Со                                   | источник фото                                       |  
 |_______|____________        |_____|________|______| _____________| ____________________________________________________| ____________________________________________________|
-|1      |![alt text](1.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
-|2      |![alt text](2.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
-|3      |![alt text](3.jpg)  |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
-|4      |![alt text](4.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
-|5      |![alt text](5.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
-|6      |![alt text](6.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
-|7      |![alt text](7.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://orchestra47.ru/sostav/first-violins/)|
-|8      |![alt text](8.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://orchestra47.ru/sostav/second-violins/)|
+|1      |![alt text](1.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/id27939298)|
+|2      |![alt text](2.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/id603857)|
+|3      |![alt text](3.png)  |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/starodubcevmusic)|
+|4      |![alt text](4.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/orange_daria)|
+|5      |![alt text](5.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/apollinariia)|
+|6      |![alt text](6.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/podgorik)|
+|7      |![alt text](7.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/koteika_katerina)|
+|8      |![alt text](8.png)  |  М  |   нет  |  нет |      да      | [LINK](https://klassika-spb.ru/orkestr/sostav-simfonicheskogo-orkestra-klassika.html)| [LINK](https://vk.com/trumplan)|
 |9      |![alt text](9.jpg)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://orchestra47.ru/sostav/second-violins/)|
 |10     |![alt text](10.jpg) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://orchestra47.ru/sostav/second-violins/)|
 |11     |![alt text](11.jpg) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://orchestra47.ru/sostav/second-violins/)|
