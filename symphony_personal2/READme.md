@@ -5,7 +5,7 @@
 |---|---|---|---|---|---|---|---|
 |1      |![alt text](1.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/id27939298)|
 |2      |![alt text](2.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/id603857)|
-|3      |![alt text](3.png)  |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/starodubcevmusic)|
+|3      |![alt text](3.png)  |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/starodubcevmusic)|
 |4      |![alt text](4.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/orange_daria)|
 |5      |![alt text](5.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/apollinariia)|
 |6      |![alt text](6.png)  |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/)| [LINK](https://vk.com/podgorik)|
@@ -35,12 +35,12 @@
 |30     |![alt text](30.png) |  М  |   нет  |  нет |      да      | [LINK](https://andreyev-orchestra.ru/kollektiv/balalajki-primyi/aleksandr-shhipiczin-zasluzhennyij-artist-rossii,-konczertmejster-gruppyi-balalaek-prim,-solist-orkestra.html)| [LINK](https://vk.com/id59126200)|
 |31     |![alt text](31.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/oboes/)| [LINK](https://vk.com/alexeygolovin)|
 |32     |![alt text](32.png) |  Ж  |   нет  |  да  |      да      | [LINK](https://orchestra47.ru/sostav/flutes/)| [LINK](https://vk.com/albums217461755)|
-|33     |![alt text](33.png) |  М  |   нет  |  да |      да      | [LINK](https://andreyev-orchestra.ru/kollektiv/domryi-altovyie-ii/elena-dernova-konczertmejster-gruppyi-ii-altovyix-domr.html)| [LINK](https://vk.com/elenadernova)|
-|34     |![alt text](34.png) |  М  |   нет  |  нет |      да      | [LINK](https://andreyev-orchestra.ru/kollektiv/domryi-altovyie-i/svetlana-smolyar-konczertmejster-gruppyi-altovyix-domr,-solistka-orkestra.html)| [LINK](https://vk.com/smsmusic)|
-|35     |![alt text](35.png) |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/clarinets/)| [LINK](https://vk.com/savela_la)|
+|33     |![alt text](33.png) |  Ж  |   нет  |  да |      да      | [LINK](https://andreyev-orchestra.ru/kollektiv/domryi-altovyie-ii/elena-dernova-konczertmejster-gruppyi-ii-altovyix-domr.html)| [LINK](https://vk.com/elenadernova)|
+|34     |![alt text](34.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://andreyev-orchestra.ru/kollektiv/domryi-altovyie-i/svetlana-smolyar-konczertmejster-gruppyi-altovyix-domr,-solistka-orkestra.html)| [LINK](https://vk.com/smsmusic)|
+|35     |![alt text](35.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/clarinets/)| [LINK](https://vk.com/savela_la)|
 |36     |![alt text](36.jpg) |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/clarinets/)| [LINK](https://vk.com/id1094145)| 
 |37     |![alt text](37.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/trombones/)| [LINK](https://vk.com/uskovkarpinskiy)|
-|38     |![alt text](38.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/percussion/)| [LINK](https://vk.com/id282339730)|
+|38     |![alt text](38.png) |  М  |   нет  |  да  |      да      | [LINK](https://orchestra47.ru/sostav/percussion/)| [LINK](https://vk.com/id282339730)|
 |39     |![alt text](39.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/percussion/)| [LINK](https://vk.com/id154774951)
 |40     |![alt text](40.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/percussion/)| [LINK](https://vk.com/id797377)|
 |41     |![alt text](41.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/Piano-and-celesta/)| [LINK](https://vk.com/sofia.kovtun)|
