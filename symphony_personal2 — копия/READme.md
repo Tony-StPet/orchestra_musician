@@ -17,7 +17,7 @@
 |11     |![alt text](11.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/aspr_hbc)|
 |12     |![alt text](12.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/yanamir_1995)|
 |13     |![alt text](13.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/id73239154)|
-|14     |![alt text](14.jpg) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/adriana.chuba10)|
+|14     |![alt text](14.png) |  Ж  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/second-violins/)| [LINK](https://vk.com/adriana.chuba10)|
 |15     |![alt text](15.png) |  М  |   да   |  нет |      да      | [LINK](https://orchestra47.ru/sostav/first-violins/) | [LINK](https://vk.com/vdanilevskiy)|
 |16     |![alt text](16.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/violas/)| [LINK](https://vk.com/viagabekov)|
 |17     |![alt text](17.png) |  М  |   нет  |  нет |      да      | [LINK](https://orchestra47.ru/sostav/french-horns/)| [LINK](https://vk.com/id16513947)| 
